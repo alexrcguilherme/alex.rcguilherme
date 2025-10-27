@@ -5,7 +5,7 @@ Sou estudante de TI e apaixonado por **redes de computadores, segurança digital
 
 - 💻 Formado no SENAI (Técnico em Redes de Computadores)
 - 💻 Estudante de CCNA no Senai (Técnico em Redes de Computadores)
-- ☁️ (AWS Foundations) Senai
+- ☁️ AWS Foundations (Senai)
 - 🔒 Entusiasta de Segurança digital e redes  
 - 🛠️ Sempre criando projetos práticos para aprender e testar  
 
