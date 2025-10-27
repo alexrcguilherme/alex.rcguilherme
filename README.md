@@ -17,7 +17,7 @@ Sou estudante de TI e apaixonado por **redes de computadores, segurança digital
 
 ## Contato
 - 📫 WhatsApp: (13) 99783-9086  
-- 📧 E-mail: alex@email.com  
+- 📧 E-mail: alex.rcguilherme@gmail.com  
 - 🌐 Instagram: https://www.instagram.com/alexi_nformatica)  
 - 💼 LinkedIn: https://www.linkedin.com/in/alexinformatica/
 
