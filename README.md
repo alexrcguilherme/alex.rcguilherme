@@ -24,3 +24,6 @@ Sou estudante de TI e apaixonado por **redes de computadores, segurança digital
 ---
 
 ✨ **“Tecnologia sem dor de cabeça”** — Alex Informática (proprietário)
+## Estatísticas do GitHub
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrcguilherme&show_icons=true&theme=dark)
