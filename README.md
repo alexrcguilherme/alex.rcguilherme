@@ -1,18 +1,27 @@
 <table>
   <tr>
-    <!-- COLUNA DA ESQUERDA - PERFIL -->
-    <td width="50%" valign="top">
+    <!-- COLUNA DA ESQUERDA - PERFIL COM FOTO -->
+    <td width="40%" valign="top">
     
+<div align="center">
+
+<img src="https://github.com/alexguilherme/alexguilherme/blob/main/alex.jpg?raw=true" width="200" style="border-radius: 50%;">
+
+
 # Olá, eu sou Alex Guilherme 👋
+
+**Estudante de TI | Redes & Segurança**
+
+</div>
 
 ## 🧑‍💻 Sobre mim
 Sou estudante de TI e apaixonado por **redes de computadores, segurança digital e cloud computing**. Atualmente, estou me aprofundando em **AWS** e criando laboratórios de testes para praticar minhas habilidades.  
 
 - 💻 Formado no SENAI (Técnico em Redes de Computadores)
-- 💻 Estudante de CCNA no Senai (Técnico em Redes de Computadores)
+- 💻 Estudante de CCNA no Senai
 - ☁️ AWS Foundations (Senai)
 - 🔒 Entusiasta de Segurança digital e redes  
-- 🛠️ Sempre criando projetos práticos para aprender e testar
+- 🛠️ Sempre criando projetos práticos
 
 ## 📞 Contato
 - 📫 **WhatsApp:** (13) 99783-9086  
@@ -23,33 +32,36 @@ Sou estudante de TI e apaixonado por **redes de computadores, segurança digital
     </td>
     
     <!-- COLUNA DA DIREITA - HABILIDADES E PROJETOS -->
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
     
 ## 🛠️ Habilidades Técnicas
 
-### **Linguagens:**
-- Visual Basic
-- Python  
-- HTML/CSS (Estudando)
+### **🌐 Redes & Infraestrutura**
+- **Protocolos:** IPv4/IPv6, DHCP, DNS, Multicast
+- **Segmentação:** VLANs, Subnetting
+- **Monitoramento:** Wireshark, PRTG
 
-### **Redes:**
-- IPv4/IPv6
-- DHCP, DNS
-- Multicast
-- VLANs
-
-### **Segurança:**
+### **🔒 Segurança Digital**
 - Pentesting básico
 - Kali Linux
-- Ferramentas de monitoramento
+- Ferramentas de análise de segurança
+- Hardening de sistemas
 
-### **Cloud:**
-- AWS (EC2, S3, IAM, Lambda)
+### **☁️ Cloud Computing**
+- **AWS:** EC2, S3, IAM, Lambda, VPC
+- **Conceitos:** IaaS, PaaS, SaaS
+- **Arquitetura cloud**
 
-## 🚀 Projetos em Andamento
-- **Lab de Redes:** Configuração de redes empresariais
-- **Estudos AWS:** Implantação de serviços cloud
-- **Segurança:** Testes de vulnerabilidade
+### **💻 Desenvolvimento**
+- **Linguagens:** Visual Basic, Python, HTML/CSS
+- **Ferramentas:** Git, VS Code
+- **Sistemas:** Windows Server, Linux
+
+## 🚀 Projetos em Destaque
+- **🔧 Lab de Redes Corporativas**
+- **☁️ Infraestrutura AWS**
+- **🛡️ Testes de Segurança**
+- **📊 Monitoramento de Rede**
 
     </td>
   </tr>
@@ -59,6 +71,6 @@ Sou estudante de TI e apaixonado por **redes de computadores, segurança digital
 
 ---
 
-✨ **"Tecnologia sem dor de cabeça"** — Alex Informática (proprietário)
+✨ **"Tecnologia sem dor de cabeça"** — Alex Informática
 
 </div>
